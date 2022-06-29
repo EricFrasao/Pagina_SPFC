@@ -1,0 +1,75 @@
+body{                                               
+    background-size: 90%;
+}                                                       
+                                                            table{
+                                                                border-style: solid;
+                                                                border-color: white;
+                                                                background-color:red;
+                                                                color: white;
+                                                                text-align: center;
+                
+                                                            }
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+    background-color: black; 
+}
+                                                            #superior{
+                                                                width: 2%;
+                                                                color: white;
+                                                            }
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red; 
+}
+                                                            h1,h2{
+                                                                color: red;
+                                                            }
+
+                                                            #spfc{
+                                                                color: white;
+                                                            }
+
+
+#second{
+    width: 12cm;
+}
+
+#third{
+    width: 20cm;
+}
+
+#fourth{
+    width: 10cm;
+    position: absolute;
+    left: 0px;
+    width: 400px;
+    padding: 10px;
+}
+
+#brazao{
+    width: 9cm;
+    margin-right: 20%;
+    margin-left: 35%;
+}
+
+#five{
+    width: 12cm;
+    position: absolute;
+    right: 0px;
+    width: 450px;
+    padding: 10px;
+}
+
+a{
+    background-color: red;
+  color: white;
+  padding: 14px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 30%;
+  border-style: double;
+}
